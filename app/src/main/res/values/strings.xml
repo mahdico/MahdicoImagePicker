@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MahdicoImagePicker</string>
+
+    <!-- Pick method -->
+    <string name="string_pickmethod_askmethod">Which method do you prefer?</string>
+    <string name="string_pickmethod_camera">Camera</string>
+    <string name="string_pickmethod_gallery">Gallery</string>
+</resources>
